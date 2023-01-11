@@ -1,19 +1,19 @@
-# Data Analysis using Pivot Table
+# Supermarket Sales Dashboard: Sales Analysis using Pivot Table and Chart
 ### Overview
-analyze supermarket sales using pivot table and chart in Microsoft Excel
+The objective of this project is to analyze supermarket sales using pivot table and chart in Microsoft Excel. After doing the analysis, I created an interactive dashboard that aims to make it easier for the audience to explore data.
 ### Dataset
-I am using [dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) from kaggle.com 
-### Question
-1. How much gross income does each branch get?
-2. How many sales quantity for each product line?
-3. How much gross income does the company get each month?
-4. When are the most sales happening?*morning/afternoon/night*
-5. What is the average rating for each branch?
-6. What is the average product discount given by each branch?
-7. How much cogs of product does each branch?
-8. How is the performance distribution of each branch?
-9. Identify the top 10 transactions based on total transactions!
+I can be downloaded at [supermarket sales dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) from kaggle.com 
+### Problem
+1. Gross Income by Branch
+2. Gross Income by Date
+3. Gross Income by Product Line
+4. Gross Income per Month
+5. Sales Quantity by Product Line
+6. Sales Quantity per Month
 ### Algorithm
-- create data in tabular form.
-- create additional columns to assist data analysis.
-- analyze data using pivot table and chart.
+- Creating data in tabular form.
+- Analyzing data using pivot table and chart.
+- Creating dashboard
+### Dashboard
+![Supermarket Sales Dashboard](https://github.com/agungbudiwirawan/supermarket_sales_dashboard-sales-analysis-using-pivot-table-and-chart/blob/main/image/supermarket%20sales%20dashboard.JPG)
+### Thank You!
