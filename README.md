@@ -2,7 +2,7 @@
 ### Overview
 The objective of this project is to analyze supermarket sales using pivot table and chart in Microsoft Excel. After doing the analysis, I created an interactive dashboard that aims to make it easier for the audience to explore data.
 ### Dataset
-I can be downloaded at [supermarket sales dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) from kaggle.com 
+The dataset can be downloaded at [supermarket sales dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) from kaggle.com 
 ### Problem
 1. Gross Income by Branch
 2. Gross Income by Date
